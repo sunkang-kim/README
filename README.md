@@ -106,6 +106,7 @@ x
 
 
 # 이미지 넣기 
+![사진1](https://user-images.githubusercontent.com/104435395/230516862-5a3d3b8b-0041-4837-b73d-b5e03b265538.PNG)
 
 <!-- tip) 이미지 크기 조절 -->
 <!-- <img src="이미지 링크" width="너비 " height="높이"> -->
